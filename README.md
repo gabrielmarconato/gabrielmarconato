@@ -3,10 +3,10 @@
 </div>
 
 
-#### - 🎓 Estou cursando Bacharelado em Ciências da Computação pela UNESP de Rio Claro
-#### - 📘 Atualmente Bolsista de Iniciação Cientifica pela FAPESP na área de inteligência artificial e Deep Learning
-#### - 🌱 Tenho uma preferência clara por me envolver em projetos que possam ter impactos positivos na vida das pessoas
-#### - 🔭 Acredito firmemente que a Inteligência Artificial continuará a ter um impacto profundamente positivo no mundo
+ - 🎓 Estou cursando Bacharelado em Ciências da Computação pela UNESP de Rio Claro
+ - 📘 Atualmente Bolsista de Iniciação Cientifica pela FAPESP na área de Inteligência Artificial e Deep Learning
+ - 🌱 Tenho uma preferência clara por me envolver em projetos que possam ter impactos positivos na vida das pessoas
+ - 🔭 Acredito firmemente que a Inteligência Artificial continuará a ter um impacto profundamente positivo no mundo
 
 ##
 <div align="center">
