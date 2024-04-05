@@ -4,10 +4,9 @@
 
 
  - 🎓 Estou cursando Bacharelado em Ciências da Computação pela UNESP de Rio Claro
- - 📘 Atualmente Bolsista de Iniciação Cientifica pela FAPESP na área de Inteligência Artificial e Deep Learning
+ - 📘 Atualmente Bolsista de Iniciação Cientifica pela FAPESP na área de Inteligência Artificial, Deep Learning e Visão Computacional
  - 🌱 Tenho uma preferência clara por me envolver em projetos que possam ter impactos positivos na vida das pessoas
- - 🔭 Acredito firmemente que a Inteligência Artificial continuará a ter um impacto profundamente positivo no mundo
-
+ - 🔭 Acredito que a Inteligência Artificial continuará a ter um impacto profundamente positivo no mundo
 
 ### Linguagens e Tecnologias
 
@@ -22,6 +21,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![TensorFlow](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 
 ##
 <div>
