@@ -7,6 +7,9 @@
  - 📘 Atualmente Bolsista de Iniciação Cientifica pela FAPESP na área de Inteligência Artificial, Deep Learning e Visão Computacional
  - 🌱 Tenho uma preferência clara por me envolver em projetos que possam ter impactos positivos na vida das pessoas
  - 🔭 Acredito que a Inteligência Artificial continuará a ter um impacto profundamente positivo no mundo
+<div align="center">
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarconato&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ### Linguagens e Tecnologias
 
