@@ -3,10 +3,10 @@
 </div>
 
 
- - 🎓 Currently completing my Bachelor's degree in Computer Science.
+ - 🎓 I'm currently completing my Bachelor's degree in Computer Science.
  - 📘 Research Fellow at FAPESP in the Computer Vision and Deep Learning field
- - 🧰 Currently working with Python and Deep Learning Frameworks like Pytorch
- - 🔭 Convinced that Artificial Intelligence will maintain an extremely beneficial influence on our planet
+ - 🧰 Presently working with Python and Deep Learning Frameworks like Pytorch
+ - 🔭 Well-informed on the upcoming advancements in Artificial Intelligence
  - 💻 Some experience in Web Development with NodeJs and React
 
 ##
@@ -36,23 +36,6 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-black?&logo=Numpy&logoColor=white)
 
 ##
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-henrique-marconato-770bb214b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="right">
+    <a href="https://www.linkedin.com/in/gabriel-henrique-marconato-770bb214b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-<!--
-**gabrielmarconato/gabrielmarconato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
