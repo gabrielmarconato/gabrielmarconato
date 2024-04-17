@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there 👋</h1>
+  <h1> Welcome </h1>
 </div>
 
 
@@ -12,7 +12,7 @@
 ##
    
 <div align="center">
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarconato&hide_progress=true&theme=dark"/>
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarconato&hide_progress=true&theme=dark&hide_border=true"/>
 </div>
 
 ##
